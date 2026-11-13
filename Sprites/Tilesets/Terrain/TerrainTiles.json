@@ -1,0 +1,199 @@
+{
+	"variations": {
+		"default": {
+			"SMB1": {
+				"source": "Overworld.png"
+			},
+			"SMBLL": {
+				"source": "Overworld.png"
+			},
+			"SMBANN": {
+				"source": "Overworld.png"
+			}
+		},
+		"Underground": {
+			"SMB1": {
+				"source": "Underground.png"
+			},
+			"SMBLL": {
+				"source": "Underground.png"
+			},
+			"SMBANN": {
+				"source": "Underground.png"
+			}
+		},
+		"Desert": {
+			"SMB1": {
+				"source": "Desert.png"
+			},
+			"SMBLL": {
+				"source": "Desert.png"
+			},
+			"SMBS": {
+				"source": "Desert.png"
+			},
+			"SMBANN": {
+				"source": "Desert.png"
+			}
+		},
+		"Snow": {
+			"SMB1": {
+				"source": "Snow.png"
+			},
+			"SMBLL": {
+				"source": "Snow.png"
+			},
+			"SMBANN": {
+				"source": "Snow.png"
+			}
+		},
+		"Jungle": {
+			"SMB1": {
+				"source": "Jungle.png"
+			},
+			"SMBLL": {
+				"source": "Jungle.png"
+			},
+			"SMBANN": {
+				"source": "Jungle.png"
+			}
+		},
+		"Beach": {
+			"SMB1": {
+				"source": "Beach.png"
+			},
+			"SMBLL": {
+				"source": "Beach.png"
+			},
+			"SMBS": {
+				"source": "Beach.png"
+			}
+		},
+		"Garden": {
+			"SMB1": {
+				"source": "Garden.png"
+			},
+			"SMBLL": {
+				"source": "Garden.png"
+			},
+			"SMBS": {
+				"source": "Garden.png"
+			}
+		},
+		"Mountain": {
+			"SMB1": {
+				"source": "Mountain.png"
+			},
+			"SMBLL": {
+				"source": "Mountain.png"
+			}
+		},
+		"Skyland": {
+			"SMB1": {
+				"source": "Sky.png"
+			},
+			"SMBLL": {
+				"source": "Sky.png"
+			}
+		},
+		"Autumn": {
+			"SMB1": {
+				"source": "Autumn.png"
+			},
+			"SMBLL": {
+				"source": "Autumn.png"
+			}
+		},
+		"Pipeland": {
+			"SMB1": {
+				"source": "PipeLand.png"
+			},
+			"SMBLL": {
+				"source": "PipeLand.png"
+			}
+		},
+		"Space": {
+			"SMB1": {
+				"source": "Space.png"
+			},
+			"SMBLL": {
+				"source": "Space.png"
+			},
+			"SMBS": {
+				"source": "Space.png"
+			}
+		},
+		"Underwater": {
+			"SMB1": {
+				"source": "Underwater.png"
+			},
+			"SMBLL": {
+				"source": "Underwater.png"
+			},
+			"SMBS": {
+				"source": "Underwater.png"
+			},
+			"SMBANN": {
+				"source": "Underwater.png"
+			}
+		},
+		"Volcano": {
+			"SMB1": {
+				"source": "Volcano.png"
+			},
+			"SMBLL": {
+				"source": "Volcano.png"
+			},
+			"SMBS": {
+				"source": "Volcano.png"
+			}
+		},
+		"GhostHouse": {
+			"SMB1": {
+				"source": "GhostHouse.png"
+			},
+			"SMBLL": {
+				"source": "GhostHouse.png"
+			}
+		},
+		"Castle": {
+			"SMB1": {
+				"source": "Castle.png"
+			},
+			"SMBLL": {
+				"source": "Castle.png"
+			},
+			"SMBANN": {
+				"source": "Castle.png"
+			}
+		},
+		"CastleWater": {
+			"SMB1": {
+				"source": "CastleWater.png"
+			},
+			"SMBLL": {
+				"source": "CastleWater.png"
+			},
+			"SMBS": {
+				"source": "CastleWater.png"
+			},
+			"SMBANN": {"link": "SMBLL"}
+		},
+		"Airship": {
+			"SMB1": {
+				"source": "Airship.png"
+			},
+			"SMBLL": {
+				"source": "Airship.png"
+			}
+		},
+		"Bonus": {
+			"SMB1": {
+				"source": "Bonus.png"
+			},
+			"SMBLL": {
+				"source": "Bonus.png"
+			}
+		}
+	}
+}

@@ -1,0 +1,138 @@
+{
+	"animations": {
+		"Idle": {
+			"frames": [
+				[
+					0.0,
+					17.0,
+					16.0,
+					16.0
+				]
+			],
+			"speed": 5.0,
+			"loop": true
+		},
+		"Spin": {
+			"frames": [
+				[
+					16.0,
+					17.0,
+					16.0,
+					16.0
+				],
+				[
+					32.0,
+					17.0,
+					16.0,
+					16.0
+				],
+				[
+					48.0,
+					17.0,
+					16.0,
+					16.0
+				],
+				[
+					0.0,
+					17.0,
+					16.0,
+					16.0
+				]
+			],
+			"speed": 15.0,
+			"loop": true
+		},
+		"Wake": {
+			"frames": [
+				[
+					0.0,
+					0.0,
+					16.0,
+					17.0
+				],
+				[
+					0.0,
+					17.0,
+					16.0,
+					16.0
+				]
+			],
+			"speed": 5.0,
+			"loop": true
+		}
+	},
+	"variations": {
+		"default": {
+			"source": "KoopaTroopa.png",
+			"rect": [
+				40.0,
+				0.0,
+				64.0,
+				39.0
+			]
+		},
+		"Underground": {
+			"source": "KoopaTroopa.png",
+			"rect": [
+				144.0,
+				0.0,
+				64.0,
+				39.0
+			]
+		},
+		"Castle": {
+			"link": "Underground"
+		},
+		"GhostHouse": {
+			"link": "Underground"
+		},
+		"Underwater": {
+			"source": "KoopaTroopa.png",
+			"rect": [
+				248.0,
+				0.0,
+				64.0,
+				39.0
+			]
+		},
+		"CastleWater": {
+			"link": "Underwater"
+		},
+		"Snow": {
+			"source": "KoopaTroopa.png",
+			"rect": [
+				40.0,
+				34.0,
+				66.0,
+				41.0
+			]
+		},
+		"Space": {
+			"source": "KoopaTroopa.png",
+			"rect": [
+				144.0,
+				34.0,
+				65.0,
+				39.0
+			]
+		},
+		"Volcano": {
+			"source": "KoopaTroopa.png",
+			"rect": [
+				248.0,
+				34.0,
+				65.0,
+				39.0
+			]
+		},
+		"Bonus": {
+			"source": "KoopaTroopa.png",
+			"rect": [
+				40.0,
+				68.0,
+				65.0,
+				39.0
+			]
+		}
+	}
+}

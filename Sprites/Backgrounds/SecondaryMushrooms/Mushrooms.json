@@ -1,0 +1,146 @@
+{
+	"properties": {
+		"can_mushroom_tint": true
+	},
+	"variations": {
+		"default": {
+			"SMB1": {
+				"Day": {
+					"source": "Mushrooms.png"
+				},
+				"Night": {
+					"source": "MushroomsNight.png"
+				}
+			},
+			"SMBLL": {
+				"Day": {
+					"source": "Mushrooms.png"
+				},
+				"Night": {
+					"source": "MushroomsNight.png"
+				}
+			}
+		},
+		"Underground": {
+			"SMB1": {
+				"source": "MushroomsNight.png"
+			},
+			"SMBLL": {
+				"source": "MushroomsNight.png"
+			}
+		},
+		"Snow": {
+			"SMB1": {
+				"Day": {
+					"source": "SnowMushrooms.png"
+				},
+				"Night": {
+					"source": "SnowMushroomsNight.png"
+				}
+			},
+			"SMBLL": {
+				"Day": {
+					"source": "SnowMushrooms.png"
+				},
+				"Night": {
+					"source": "SnowMushroomsNight.png"
+				}
+			}
+		},
+		"Volcano": {
+			"SMB1": {
+				"source": "VolcanoMushrooms.png"
+			},
+			"SMBLL": {
+				"source": "VolcanoMushrooms.png"
+			}
+		},
+		"Airship": {
+			"SMB1": {
+				"Day": {
+					"source": "AirshipMushrooms.png"
+				},
+				"Night": {
+					"source": "AirshipMushroomsNight.png"
+				}
+			},
+			"SMBLL": {
+				"Day": {
+					"source": "AirshipMushrooms.png"
+				},
+				"Night": {
+					"source": "AirshipMushroomsNight.png"
+				}
+			}
+		},
+		"Beach": {
+			"SMB1": {
+				"Day": {
+					"source": "BeachMushrooms.png"
+				},
+				"Night": {
+					"source": "BeachMushroomsNight.png"
+				}
+			},
+			"SMBLL": {
+				"Day": {
+					"source": "BeachMushrooms.png"
+				},
+				"Night": {
+					"source": "BeachMushroomsNight.png"
+				}
+			}
+		},
+		"Space": {
+			"SMB1": {
+				"Day": {
+					"source": "BeachMushroomsNight.png"
+				},
+				"Night": {
+					"source": "BeachMushroomsNight.png"
+				}
+			},
+			"SMBLL": {
+				"Day": {
+					"source": "BeachMushroomsNight.png"
+				},
+				"Night": {
+					"source": "BeachMushroomsNight.png"
+				}
+			}
+		},
+		"Underwater": {
+			"SMB1": {
+				"Day": {
+					"source": "UnderwaterMushrooms.png",
+					"properties": {
+						"can_mushroom_tint": false
+					}
+				},
+				"Night": {
+					"source": "UnderwaterMushroomsNight.png",
+					"properties": {
+						"can_mushroom_tint": false
+					}
+				}
+			},
+			"SMBLL": {
+				"Day": {
+					"source": "UnderwaterMushrooms.png",
+					"properties": {
+						"can_mushroom_tint": false
+					}
+				},
+				"Night": {
+					"source": "UnderwaterMushroomsNight.png",
+					"properties": {
+						"can_mushroom_tint": false
+					}
+				}
+			}
+		},
+		"CastleWater": {
+			"link": "Underwater"
+		}
+	}
+}

@@ -1,0 +1,854 @@
+{
+	"variations": {
+		"default": {
+			"Day": {
+				"SMB1": {
+					"source": "OverworldDeco.png",
+					"rect": [
+						0.0,
+						0.0,
+						80.0,
+						32.0
+					]
+				},
+				"SMBLL": {
+					"source": "OverworldDeco.png",
+					"rect": [
+						0.0,
+						0.0,
+						80.0,
+						32.0
+					]
+				},
+				"SMBANN": {
+					"source": "OverworldDeco.png",
+					"rect": [
+						0.0,
+						0.0,
+						80.0,
+						32.0
+					]
+				}
+			},
+			"Night": {
+				"SMB1": {
+					"source": "OverworldDeco.png",
+					"rect": [
+						0.0,
+						32.0,
+						80.0,
+						32.0
+					]
+				},
+				"SMBLL": {
+					"source": "OverworldDeco.png",
+					"rect": [
+						0.0,
+						32.0,
+						80.0,
+						32.0
+					]
+				},
+				"SMBANN": {
+					"source": "OverworldDeco.png",
+					"rect": [
+						0.0,
+						32.0,
+						80.0,
+						32.0
+					]
+				}
+			}
+		},
+		"Underground": {
+			"SMB1": {
+				"source": "UndergroundDeco.png",
+				"rect": [
+					0.0,
+					0.0,
+					80.0,
+					32.0
+				]
+			},
+			"SMBLL": {
+				"source": "UndergroundDeco.png",
+				"rect": [
+					0.0,
+					0.0,
+					80.0,
+					32.0
+				]
+			},
+			"SMBANN": {
+				"source": "UndergroundDeco.png",
+				"rect": [
+					0.0,
+					0.0,
+					80.0,
+					32.0
+				]
+			}
+		},
+		"Desert": {
+			"Day": {
+				"SMB1": {
+					"source": "DesertDeco.png",
+					"rect": [
+						0.0,
+						0.0,
+						80.0,
+						32.0
+					]
+				},
+				"SMBLL": {
+					"source": "DesertDeco.png",
+					"rect": [
+						0.0,
+						0.0,
+						80.0,
+						32.0
+					]
+				},
+				"SMBANN": {
+					"source": "DesertDeco.png",
+					"rect": [
+						0.0,
+						0.0,
+						80.0,
+						32.0
+					]
+				}
+			},
+			"Night": {
+				"SMB1": {
+					"source": "DesertDeco.png",
+					"rect": [
+						0.0,
+						32.0,
+						80.0,
+						32.0
+					]
+				},
+				"SMBLL": {
+					"source": "DesertDeco.png",
+					"rect": [
+						0.0,
+						32.0,
+						80.0,
+						32.0
+					]
+				},
+				"SMBANN": {
+					"source": "DesertDeco.png",
+					"rect": [
+						0.0,
+						32.0,
+						80.0,
+						32.0
+					]
+				}
+			}
+		},
+		"Snow": {
+			"Day": {
+				"SMB1": {
+					"source": "SnowDeco.png",
+					"rect": [
+						0.0,
+						0.0,
+						80.0,
+						32.0
+					]
+				},
+				"SMBLL": {
+					"source": "SnowDeco.png",
+					"rect": [
+						0.0,
+						0.0,
+						80.0,
+						32.0
+					]
+				},
+				"SMBANN": {
+					"source": "SnowDeco.png",
+					"rect": [
+						0.0,
+						0.0,
+						80.0,
+						32.0
+					]
+				}
+			},
+			"Night": {
+				"SMB1": {
+					"source": "SnowDeco.png",
+					"rect": [
+						0.0,
+						32.0,
+						80.0,
+						32.0
+					]
+				},
+				"SMBLL": {
+					"source": "SnowDeco.png",
+					"rect": [
+						0.0,
+						32.0,
+						80.0,
+						32.0
+					]
+				},
+				"SMBANN": {
+					"source": "SnowDeco.png",
+					"rect": [
+						0.0,
+						32.0,
+						80.0,
+						32.0
+					]
+				}
+			}
+		},
+		"Jungle": {
+			"Day": {
+				"SMB1": {
+					"source": "JungleDeco.png",
+					"rect": [
+						0.0,
+						0.0,
+						80.0,
+						32.0
+					]
+				},
+				"SMBLL": {
+					"source": "JungleDeco.png",
+					"rect": [
+						0.0,
+						0.0,
+						80.0,
+						32.0
+					]
+				},
+				"SMBANN": {
+					"source": "JungleDeco.png",
+					"rect": [
+						0.0,
+						0.0,
+						80.0,
+						32.0
+					]
+				}
+			},
+			"Night": {
+				"SMB1": {
+					"source": "JungleDeco.png",
+					"rect": [
+						0.0,
+						32.0,
+						80.0,
+						32.0
+					]
+				},
+				"SMBLL": {
+					"source": "JungleDeco.png",
+					"rect": [
+						0.0,
+						32.0,
+						80.0,
+						32.0
+					]
+				},
+				"SMBANN": {
+					"source": "JungleDeco.png",
+					"rect": [
+						0.0,
+						32.0,
+						80.0,
+						32.0
+					]
+				}
+			}
+		},
+		"Beach": {
+			"Day": {
+				"SMB1": {
+					"source": "BeachDeco.png",
+					"rect": [
+						0.0,
+						0.0,
+						80.0,
+						32.0
+					]
+				},
+				"SMBLL": {
+					"source": "BeachDeco.png",
+					"rect": [
+						0.0,
+						0.0,
+						80.0,
+						32.0
+					]
+				},
+				"SMBANN": {
+					"source": "BeachDeco.png",
+					"rect": [
+						0.0,
+						0.0,
+						80.0,
+						32.0
+					]
+				}
+			},
+			"Night": {
+				"SMB1": {
+					"source": "BeachDeco.png",
+					"rect": [
+						0.0,
+						32.0,
+						80.0,
+						32.0
+					]
+				},
+				"SMBLL": {
+					"source": "BeachDeco.png",
+					"rect": [
+						0.0,
+						32.0,
+						80.0,
+						32.0
+					]
+				},
+				"SMBANN": {
+					"source": "BeachDeco.png",
+					"rect": [
+						0.0,
+						32.0,
+						80.0,
+						32.0
+					]
+				}
+			}
+		},
+		"Garden": {
+			"Day": {
+				"SMB1": {
+					"source": "GardenDeco.png",
+					"rect": [
+						0.0,
+						0.0,
+						80.0,
+						32.0
+					]
+				},
+				"SMBLL": {
+					"source": "GardenDeco.png",
+					"rect": [
+						0.0,
+						0.0,
+						80.0,
+						32.0
+					]
+				},
+				"SMBANN": {
+					"source": "GardenDeco.png",
+					"rect": [
+						0.0,
+						0.0,
+						80.0,
+						32.0
+					]
+				}
+			},
+			"Night": {
+				"SMB1": {
+					"source": "GardenDeco.png",
+					"rect": [
+						0.0,
+						32.0,
+						80.0,
+						32.0
+					]
+				},
+				"SMBLL": {
+					"source": "GardenDeco.png",
+					"rect": [
+						0.0,
+						32.0,
+						80.0,
+						32.0
+					]
+				},
+				"SMBANN": {
+					"source": "GardenDeco.png",
+					"rect": [
+						0.0,
+						32.0,
+						80.0,
+						32.0
+					]
+				}
+			}
+		},
+		"Mountain": {
+			"Day": {
+				"SMB1": {
+					"source": "MountainDeco.png",
+					"rect": [
+						0.0,
+						0.0,
+						80.0,
+						32.0
+					]
+				},
+				"SMBLL": {
+					"source": "MountainDeco.png",
+					"rect": [
+						0.0,
+						0.0,
+						80.0,
+						32.0
+					]
+				},
+				"SMBANN": {
+					"source": "MountainDeco.png",
+					"rect": [
+						0.0,
+						0.0,
+						80.0,
+						32.0
+					]
+				}
+			},
+			"Night": {
+				"SMB1": {
+					"source": "MountainDeco.png",
+					"rect": [
+						0.0,
+						32.0,
+						80.0,
+						32.0
+					]
+				},
+				"SMBLL": {
+					"source": "MountainDeco.png",
+					"rect": [
+						0.0,
+						32.0,
+						80.0,
+						32.0
+					]
+				},
+				"SMBANN": {
+					"source": "MountainDeco.png",
+					"rect": [
+						0.0,
+						32.0,
+						80.0,
+						32.0
+					]
+				}
+			}
+		},
+		"Skyland": {
+			"Day": {
+				"SMB1": {
+					"source": "SkyDeco.png",
+					"rect": [
+						0.0,
+						0.0,
+						80.0,
+						32.0
+					]
+				},
+				"SMBLL": {
+					"source": "SkyDeco.png",
+					"rect": [
+						0.0,
+						0.0,
+						80.0,
+						32.0
+					]
+				},
+				"SMBANN": {
+					"source": "SkyDeco.png",
+					"rect": [
+						0.0,
+						0.0,
+						80.0,
+						32.0
+					]
+				}
+			},
+			"Night": {
+				"SMB1": {
+					"source": "SkyDeco.png",
+					"rect": [
+						0.0,
+						32.0,
+						80.0,
+						32.0
+					]
+				},
+				"SMBLL": {
+					"source": "SkyDeco.png",
+					"rect": [
+						0.0,
+						32.0,
+						80.0,
+						32.0
+					]
+				},
+				"SMBANN": {
+					"source": "SkyDeco.png",
+					"rect": [
+						0.0,
+						32.0,
+						80.0,
+						32.0
+					]
+				}
+			}
+		},
+		"Autumn": {
+			"Day": {
+				"SMB1": {
+					"source": "AutumnDeco.png",
+					"rect": [
+						0.0,
+						0.0,
+						80.0,
+						32.0
+					]
+				},
+				"SMBLL": {
+					"source": "AutumnDeco.png",
+					"rect": [
+						0.0,
+						0.0,
+						80.0,
+						32.0
+					]
+				},
+				"SMBANN": {
+					"source": "AutumnDeco.png",
+					"rect": [
+						0.0,
+						0.0,
+						80.0,
+						32.0
+					]
+				}
+			},
+			"Night": {
+				"SMB1": {
+					"source": "AutumnDeco.png",
+					"rect": [
+						0.0,
+						32.0,
+						80.0,
+						32.0
+					]
+				},
+				"SMBLL": {
+					"source": "AutumnDeco.png",
+					"rect": [
+						0.0,
+						32.0,
+						80.0,
+						32.0
+					]
+				},
+				"SMBANN": {
+					"source": "AutumnDeco.png",
+					"rect": [
+						0.0,
+						32.0,
+						80.0,
+						32.0
+					]
+				}
+			}
+		},
+		"Pipeland": {
+			"Day": {
+				"SMB1": {"source": "PipeLandDeco.png","rect": [0.0,0.0,80.0,32.0]},
+				"SMBLL": {"source": "PipeLandDeco.png","rect": [0.0,0.0,80.0,32.0]}
+			},
+			"Night": {
+				"SMB1": {"source": "PipeLandDeco.png","rect": [0.0,32,80.0,32.0]},
+				"SMBLL": {"source": "PipeLandDeco.png","rect": [0.0,32,80.0,32.0]}
+			}
+		},
+		"Space": {
+			"source": "SpaceDeco.png",
+			"rect": [
+				0.0,
+				0.0,
+				80.0,
+				32.0
+			]
+		},
+		"Underwater": {
+			"Day": {
+				"source": "UnderwaterDeco.png",
+				"rect": [
+					0.0,
+					0.0,
+					80.0,
+					32.0
+				]
+			},
+			"Night": {
+				"source": "UnderwaterDeco.png",
+				"rect": [
+					0.0,
+					32.0,
+					80.0,
+					32.0
+				]
+			}
+		},
+		"Volcano": {
+			"Day": {
+				"SMB1": {
+					"source": "VolcanoDeco.png",
+					"rect": [
+						0.0,
+						0.0,
+						80.0,
+						32.0
+					]
+				},
+				"SMBLL": {
+					"source": "VolcanoDeco.png",
+					"rect": [
+						0.0,
+						0.0,
+						80.0,
+						32.0
+					]
+				},
+				"SMBANN": {
+					"source": "VolcanoDeco.png",
+					"rect": [
+						0.0,
+						0.0,
+						80.0,
+						32.0
+					]
+				}
+			},
+			"Night": {
+				"SMB1": {
+					"source": "VolcanoDeco.png",
+					"rect": [
+						0.0,
+						32.0,
+						80.0,
+						32.0
+					]
+				},
+				"SMBLL": {
+					"source": "VolcanoDeco.png",
+					"rect": [
+						0.0,
+						32.0,
+						80.0,
+						32.0
+					]
+				},
+				"SMBANN": {
+					"source": "VolcanoDeco.png",
+					"rect": [
+						0.0,
+						32.0,
+						80.0,
+						32.0
+					]
+				}
+			}
+		},
+		"GhostHouse": {
+			"Day": {
+				"SMB1": {
+					"source": "GhostHouseDeco.png",
+					"rect": [
+						0.0,
+						0.0,
+						80.0,
+						32.0
+					]
+				},
+				"SMBLL": {
+					"source": "GhostHouseDeco.png",
+					"rect": [
+						0.0,
+						0.0,
+						80.0,
+						32.0
+					]
+				},
+				"SMBANN": {
+					"source": "GhostHouseDeco.png",
+					"rect": [
+						0.0,
+						0.0,
+						80.0,
+						32.0
+					]
+				}
+			},
+			"Night": {
+				"SMB1": {
+					"source": "GhostHouseDeco.png",
+					"rect": [
+						0.0,
+						32.0,
+						80.0,
+						32.0
+					]
+				},
+				"SMBLL": {
+					"source": "GhostHouseDeco.png",
+					"rect": [
+						0.0,
+						32.0,
+						80.0,
+						32.0
+					]
+				},
+				"SMBANN": {
+					"source": "GhostHouseDeco.png",
+					"rect": [
+						0.0,
+						32.0,
+						80.0,
+						32.0
+					]
+				}
+			}
+		},
+		"Castle": {
+			"SMB1": {
+				"source": "CastleDeco.png",
+				"rect": [
+					0.0,
+					0.0,
+					80.0,
+					32.0
+				]
+			},
+			"SMBLL": {
+				"source": "CastleDeco.png",
+				"rect": [
+					0.0,
+					0.0,
+					80.0,
+					32.0
+				]
+			},
+			"SMBANN": {
+				"source": "CastleDeco.png",
+				"rect": [
+					0.0,
+					0.0,
+					80.0,
+					32.0
+				]
+			}
+		},
+		"CastleWater": {
+			"SMB1": {
+				"source": "CastleWaterDeco.png",
+				"rect": [
+					0.0,
+					0.0,
+					80.0,
+					32.0
+				]
+			},
+			"SMBLL": {
+				"source": "CastleWaterDeco.png",
+				"rect": [
+					0.0,
+					0.0,
+					80.0,
+					32.0
+				]
+			},
+			"SMBANN": {
+				"link": "SMBLL"
+			}
+		},
+		"Airship": {
+			"SMB1": {
+				"Day": {
+					"source": "AirshipDeco.png",
+					"rect": [
+						0.0,
+						0.0,
+						80.0,
+						32.0
+					]
+				},
+				"Night": {
+					"source": "AirshipDeco.png",
+					"rect": [
+						0.0,
+						32.0,
+						80.0,
+						32.0
+					]
+				}
+			},
+			"SMBLL": {
+				"Day": {
+					"source": "AirshipDeco.png",
+					"rect": [
+						0.0,
+						0.0,
+						80.0,
+						32.0
+					]
+				},
+				"Night": {
+					"source": "AirshipDeco.png",
+					"rect": [
+						0.0,
+						32.0,
+						80.0,
+						32.0
+					]
+				}
+			},
+			"SMBANN": {
+				"Day": {
+					"source": "AirshipDeco.png",
+					"rect": [
+						0.0,
+						0.0,
+						80.0,
+						32.0
+					]
+				},
+				"Night": {
+					"source": "AirshipDeco.png",
+					"rect": [
+						0.0,
+						32.0,
+						80.0,
+						32.0
+					]
+				}
+			}
+		},
+		"Bonus": {
+			"SMB1": {
+				"source": "BonusDeco.png"
+			},
+			"SMBLL": {
+				"source": "BonusDeco.png"
+			}
+		}
+	}
+}
