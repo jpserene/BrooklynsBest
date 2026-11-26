@@ -31,7 +31,7 @@
 				"Night": {"source": "AutumnBushNight.png"}
 			},
 			"SMBLL": {
-				"Day": {"source": "AutumnBushLL.png"},
+				"Day": {"source": "AutumnBush.png"},
 				"Night": {"source": "AutumnBushNight.png"}
 			},
 		},
@@ -41,7 +41,7 @@
 				"Night": { "source": "CastleBushNight.png" }
 			},
 			"SMBLL": {
-				"Day": { "source": "CastleBushLL.png" },
+				"Day": { "source": "CastleBush.png" },
 				"Night": { "source": "CastleBushNight.png" }
 			}
 		},
@@ -51,7 +51,7 @@
 				"Night": { "source": "CastleWaterBushNight.png" }
 			},
 			"SMBLL": {
-				"Day": { "source": "CastleWaterBushLL.png" },
+				"Day": { "source": "CastleWaterBush.png" },
 				"Night": { "source": "CastleWaterBushNight.png" }
 			}
 		},
@@ -61,7 +61,7 @@
 				"Night": { "source": "AirshipBushNight.png" }
 			},
 			"SMBLL": {
-				"Day": { "source": "AirshipBushLL.png" },
+				"Day": { "source": "AirshipBush.png" },
 				"Night": { "source": "AirshipBushNight.png" }
 			}
 		},
@@ -83,7 +83,7 @@
 				"Night": { "source": "GardenBushNight.png" }
 			},
 			"SMBLL": {
-				"Day": { "source": "GardenBushLL.png" },
+				"Day": { "source": "GardenBush.png" },
 				"Night": { "source": "GardenBushNight.png" }
 			}
 		},
@@ -93,7 +93,7 @@
 				"Night": { "source": "DesertBushNight.png" }
 			},
 			"SMBLL": {
-				"Day": { "source": "DesertBushLL.png" },
+				"Day": { "source": "DesertBush.png" },
 				"Night": { "source": "DesertBushNight.png" }
 			}
 		},
@@ -103,7 +103,7 @@
 				"Night": { "source": "UnderwaterBushNight.png" }
 			},
 			"SMBLL": {
-				"Day": { "source": "UnderwaterBushLL.png" },
+				"Day": { "source": "UnderwaterBush.png" },
 				"Night": { "source": "UnderwaterBushNight.png" }
 			}
 		},
@@ -117,7 +117,7 @@
 				"Night": { "source": "BonusBushNight.png" }
 			},
 			"SMBLL": {
-				"Day": { "source": "BonusBushLL.png" },
+				"Day": { "source": "BonusBush.png" },
 				"Night": { "source": "BonusBushNight.png" }
 			}
 		}

@@ -1,7 +1,7 @@
 {
 	"variations": {
 		"SMB1": {"source": "CloudOverlay.png"},
-		"SMBLL": {"source": "CloudOverlayLL.png"},
+		"SMBLL": {"source": "CloudOverlay.png"},
 		"SMBANN": {"link": "SMBLL"}
 	}
 }
